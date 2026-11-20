@@ -3,6 +3,10 @@
 Live air traffic control radio, transcribed and matched to the aircraft that said it, on a map.
 Runs entirely on your own machine. Default home base is Atlanta (KATL tower).
 
+![Map of live aircraft with the transcript feed](docs/overview.png)
+
+![A selected flight with its transmissions](docs/flight.png)
+
 ```
 audio → split into transmissions → transcribe → find callsign → match to a nearby aircraft → add route → show it
 ```
