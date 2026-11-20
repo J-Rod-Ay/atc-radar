@@ -1,0 +1,6 @@
+faster-whisper>=1.2
+fastapi
+uvicorn[standard]
+httpx
+rapidfuzz
+numpy

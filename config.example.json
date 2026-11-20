@@ -1,0 +1,12 @@
+{
+  "airport": "KATL",
+  "airport_name": "Atlanta",
+  "feed": "TWR",
+  "lat": 33.6407,
+  "lon": -84.4277,
+  "radius_nm": 30,
+  "source": {
+    "kind": "url",
+    "value": "https://d.liveatc.net/katl_twr"
+  }
+}
